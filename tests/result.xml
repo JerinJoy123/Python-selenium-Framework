@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="8.086" timestamp="2024-06-06T02:34:43.285217" hostname="Jerin_Joy"><testcase classname="test_e2e.TestOne" name="test_e2e" time="8.045" /></testsuite></testsuites>
